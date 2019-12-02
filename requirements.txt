@@ -1,0 +1,6 @@
+pyglet==1.4.8
+Wand==0.5.2  # for Windows - visit on http://docs.wand-py.org/
+# tested for python 3.6 and Ubuntu 18.04
+# And thinker is required(installing on Ubuntu 18.04):
+# sudo apt-get update
+# sudo apt-get install python3-tk
