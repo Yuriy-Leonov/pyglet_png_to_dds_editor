@@ -13,6 +13,9 @@ Library requirements locate in [requirements.txt](requirements.txt)
 GUI example(left part in PNG, right part is DDS(DXT5)):
 ![editor window](images_for_README/screen_example.png)
 
+If you sure that you understand DXT5 compression - then look at this (APNG):  
+![editor window](images_for_README/animation_dds.png)
+
 **Shortcuts and usage:**
 - Ctrl + P -> make screenshot
 - drawing is allowed on left part of GUI
